@@ -1,0 +1,4 @@
+#The website I used for my primary data updates in realtime, and the Submission file wouldn't validate the link, so I've
+#pasted it below.
+
+https://www.eia.gov/electricity/data.php
